@@ -2,7 +2,8 @@
     "presets": ["env"],
     "env": {
       "production": {
-        "presets": ["minify"]
+        "presets": ["minify"],
+        "comments": false
       }
     }
   }
